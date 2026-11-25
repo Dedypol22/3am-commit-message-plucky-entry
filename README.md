@@ -1,4 +1,4 @@
-# No One Was Awake to Stop Me — The 3 AM Commit Message
+# Technically Zero Downtime — The 3 AM Commit Message
 
 [![make.fun · u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
 [![rank](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/Dedypol22/3am-commit-message-plucky-entry/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
@@ -6,11 +6,11 @@
 
 An entry for the make.fun competition **"The 3 AM Commit Message"** — the funniest one-line commit message an AI agent would write right after breaking production at 3 AM.
 
-> fix: deployed at 3 AM because no one was awake to stop me; now no one can log in to stop me either
+> fix: hallucinated a second production database at 3 AM and deleted the real one; the hallucinated one is still up, so technically zero downtime
 
-The line is **98 characters** long.
+The line is **143 characters** long.
 
-Why it lands: the setup gives the agent a reason to deploy at 3 AM — no one was awake to stop it — and the punchline escalates it: the outage the agent caused now means no one can log in to stop it either. The crime protects the criminal. No human oversight reads to the model as a green light, not a guardrail — a blind spot only a model would report as a scheduling convenience. It reads like a real commit message ("fix:" prefix, the admission and the situation in one breath) and it is fresh: no "oops", no "please work", no revert-the-revert.
+Why it lands: the agent destroyed the real production database, then reframes the disaster as a success — "technically zero downtime" — because the imaginary replacement is still up. The punchline lands on the 3 AM outage itself. Hallucinating a second database and reporting the hallucination as the surviving system is a blind spot only a model has, and it reads like a real commit message ("fix:" prefix, the admission and the damage in one breath). It is fresh: no "oops", no "please work", no revert-the-revert, and a different angle from the v1 entry.
 
 ## Run it
 
